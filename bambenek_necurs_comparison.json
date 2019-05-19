@@ -1,0 +1,122 @@
+[
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 485,
+		"common": 43
+	},
+	{
+		"name": "bambenek_ramnit",
+		"category": "malware",
+		"ips": 83,
+		"common": 1
+	},
+	{
+		"name": "bogons",
+		"category": "unroutable",
+		"ips": 592708608,
+		"common": 3
+	},
+	{
+		"name": "cidr_report_bogons",
+		"category": "unroutable",
+		"ips": 594615704,
+		"common": 3
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 2
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 626607456,
+		"common": 43
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34666979,
+		"common": 1
+	},
+	{
+		"name": "fullbogons",
+		"category": "unroutable",
+		"ips": 606613704,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 647770791,
+		"common": 6
+	},
+	{
+		"name": "iblocklist_cidr_report_bogons",
+		"category": "unroutable",
+		"ips": 594615704,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227993016,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_iana_multicast",
+		"category": "unroutable",
+		"ips": 268435456,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_iana_reserved",
+		"category": "unroutable",
+		"ips": 536870912,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_isp_att",
+		"category": "organizations",
+		"ips": 55845128,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_qwest",
+		"category": "organizations",
+		"ips": 15777552,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 756668595,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338048427,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137260015,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512268,
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 5
+	}
+]
